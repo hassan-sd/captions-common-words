@@ -8,6 +8,8 @@ Edit line 41 to your path, in it's current example it's expecting your text file
 
 Everytime you run, a new log file is created with the results.
 
+# running
+`pip install requirements.txt` to install libraries
 Launch it by using `python start.py` 
 
 
