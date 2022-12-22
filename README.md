@@ -1,5 +1,5 @@
 # captions-common-words
-A small python script to read through a folder of captions and determine the most common words
+A small python script to read through a folder of captions and determine the most common words and most common phrases (combination of words)
 
 
 Simply edit `start.py` and adjust any blocked words you want to exclude, by default we are excluding `on in a with of her him them one his she while and no for`, you can add more or remove any.
@@ -14,3 +14,4 @@ Launch it by using `python start.py`
 
 
 ![image](https://user-images.githubusercontent.com/119671806/209149508-8a7132e3-1445-4d78-ab36-7e2434dfc995.png)
+![image](https://user-images.githubusercontent.com/119671806/209165558-602dd2c2-7fb3-4bbc-95e6-cc402481a8f8.png)
