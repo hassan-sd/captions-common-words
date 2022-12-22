@@ -9,3 +9,6 @@ Edit line 41 to your path, in it's current example it's expecting your text file
 Everytime you run, a new log file is created with the results.
 
 Launch it by using `python start.py` 
+
+
+![image](https://user-images.githubusercontent.com/119671806/209149508-8a7132e3-1445-4d78-ab36-7e2434dfc995.png)
